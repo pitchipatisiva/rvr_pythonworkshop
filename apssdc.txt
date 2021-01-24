@@ -1,0 +1,5 @@
+<html>
+<head> FIRST APP</head>
+<body>
+<h1> APSSDC</h1>
+<p>Wikipedia (/?w?k?'pi?di?/ (About this soundlisten) wik-ih-PEE-dee-? or /?w?ki-/ (About this soundlisten) wik-ee-) is a multilingual open-collaborative online encyclopedia created and maintained by a community of volunteer editors using a wiki-based editing system. It is one of the 15 most popular websites as ranked by Alexa, as of January 2021[3] and The Economist newspaper placed it as the "13th-most-visited place on the web".[4] Featuring no advertisements, it is hosted by the Wikimedia Foundation, an American non-profit organization funded primarily through donations.<p>
